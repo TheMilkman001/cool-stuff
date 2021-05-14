@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TextBubblePop.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 20000" x="0" y="0" width="289" height="137" frameX="-1695" frameY="-889" frameWidth="3861" frameHeight="2023"/>
+	<SubTexture name="Symbol 20001" x="289" y="0" width="2075" height="1081" frameX="-847" frameY="-444" frameWidth="3861" frameHeight="2023"/>
+	<SubTexture name="Symbol 20002" x="2364" y="0" width="3861" height="2023"/>
+	<SubTexture name="Symbol 20003" x="0" y="2023" width="3643" height="1836" frameX="-103" frameY="-88" frameWidth="3861" frameHeight="2023"/>
+	<SubTexture name="Symbol 20004" x="0" y="2023" width="3643" height="1836" frameX="-103" frameY="-88" frameWidth="3861" frameHeight="2023"/>
+</TextureAtlas>
